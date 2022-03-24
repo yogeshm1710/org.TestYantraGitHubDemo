@@ -6,6 +6,7 @@ public class ClassAmanTest {
 	@Test
 	public void createAman() {
 		System.out.println("Aman created sucesfully");
+		System.out.println("Aman Updated");
 	}
 	
 	
